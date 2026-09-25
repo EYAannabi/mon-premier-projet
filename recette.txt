@@ -1,1 +1,2 @@
 recette : tarte aux pommes
+recette : quiche lorraine
