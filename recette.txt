@@ -1,4 +1,8 @@
 recette : tarte aux pommes
 recette : quiche lorraine
 recette : soupe à l'oignon
+<<<<<<< HEAD
 recette : ratatouille
+=======
+recette : pasta
+>>>>>>> nouvelle-fonctionnalite
